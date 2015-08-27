@@ -1,0 +1,15 @@
+ERROR 2015-08-25T15:16:10 supybot Invalid user dictionary file, resetting to empty.
+ERROR 2015-08-25T15:16:10 supybot Exact error: IOError: [Errno 2] No such file or directory: 'conf/users.conf'
+ERROR 2015-08-25T15:16:10 supybot Invalid channel database, resetting to empty.
+ERROR 2015-08-25T15:16:10 supybot Exact error: IOError: [Errno 2] No such file or directory: 'conf/channels.conf'
+WARNING 2015-08-25T15:16:10 supybot Couldn't open ignore database: [Errno 2] No such file or directory: 'conf/ignores.conf'
+INFO 2015-08-25T15:17:05 supybot Creating directory /home/gargantua/gb3/limconfigs/data/GPGkeyring
+INFO 2015-08-25T15:20:23 supybot Shutdown initiated.
+INFO 2015-08-25T15:20:23 supybot Killing Driver objects.
+INFO 2015-08-25T15:20:23 supybot Killing Irc objects.
+INFO 2015-08-25T15:20:23 supybot Shutdown complete.
+INFO 2015-08-25T21:44:14 supybot Creating directory /home/gargantua/gb3/data/GPGkeyring
+INFO 2015-08-25T21:44:52 supybot Shutdown initiated.
+INFO 2015-08-25T21:44:52 supybot Killing Driver objects.
+INFO 2015-08-25T21:44:52 supybot Killing Irc objects.
+INFO 2015-08-25T21:44:52 supybot Shutdown complete.

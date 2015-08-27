@@ -1,0 +1,274 @@
+ERROR 2015-08-25T15:20:31 supybot Invalid user dictionary file, resetting to empty.
+ERROR 2015-08-25T15:20:31 supybot Exact error: IOError: [Errno 2] No such file or directory: '/home/gargantua/gb3/limconfigs/conf/users.conf'
+ERROR 2015-08-25T15:20:31 supybot Invalid channel database, resetting to empty.
+ERROR 2015-08-25T15:20:31 supybot Exact error: IOError: [Errno 2] No such file or directory: '/home/gargantua/gb3/limconfigs/conf/channels.conf'
+WARNING 2015-08-25T15:20:31 supybot Couldn't open ignore database: [Errno 2] No such file or directory: '/home/gargantua/gb3/limconfigs/conf/ignores.conf'
+INFO 2015-08-25T15:20:31 supybot Creating new Irc for slashnet.
+INFO 2015-08-25T15:20:31 supybot slashnet: Queuing PASS command, not logging the password.
+INFO 2015-08-25T15:20:32 supybot Connecting to irc.slashnet.org:6667.
+INFO 2015-08-25T15:20:33 supybot Loading plugins (connecting to slashnet).
+WARNING 2015-08-25T15:20:33 supybot Couldn't open /home/gargantua/gb3/limconfigs/data/Seen.db: [Errno 2] No such file or directory: '/home/gargantua/gb3/limconfigs/data/Seen.db'.
+WARNING 2015-08-25T15:20:33 supybot Couldn't open /home/gargantua/gb3/limconfigs/data/Seen.any.db: [Errno 2] No such file or directory: '/home/gargantua/gb3/limconfigs/data/Seen.any.db'.
+INFO 2015-08-25T15:20:44 supybot slashnet: Server acknowledged capabilities: account-notify multi-prefix
+INFO 2015-08-25T15:20:45 supybot Server spaniels.slashnet.org has version Unreal3.2.10.2
+INFO 2015-08-25T15:20:46 supybot Got end of MOTD from spaniels.slashnet.org
+INFO 2015-08-25T15:20:55 supybot google called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T15:20:55 supybot Join to #thebar on slashnet synced in 9.24 seconds.
+INFO 2015-08-25T15:20:57 supybot Join to #codelove on slashnet synced in 10.47 seconds.
+INFO 2015-08-25T15:20:58 supybot Join to #gb3 on slashnet synced in 11.59 seconds.
+INFO 2015-08-25T15:20:59 supybot google called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T15:21:06 supybot Exiting due to Ctrl-C.  If the bot doesn't exit within a few seconds, feel free to press Ctrl-C again to make it exit without flushing its message queues.
+INFO 2015-08-25T15:21:06 supybot Flushers flushed and garbage collected.
+INFO 2015-08-25T15:21:06 supybot Driver for Irc object for slashnet dying.
+INFO 2015-08-25T15:21:06 supybot Irc object for slashnet dying.
+INFO 2015-08-25T15:21:06 supybot Driver for Irc object for slashnet dying.
+INFO 2015-08-25T15:21:06 supybot Removing driver SocketDriver(Irc object for slashnet).
+INFO 2015-08-25T15:21:06 supybot Total uptime: 34 seconds.
+INFO 2015-08-25T15:21:06 supybot Total CPU time taken: 0.56 seconds.
+INFO 2015-08-25T15:21:06 supybot No more Irc objects, exiting.
+INFO 2015-08-25T15:21:06 supybot Shutdown initiated.
+INFO 2015-08-25T15:21:06 supybot Killing Driver objects.
+INFO 2015-08-25T15:21:06 supybot Killing Irc objects.
+INFO 2015-08-25T15:21:06 supybot Writing registry file to gb3.conf
+INFO 2015-08-25T15:21:06 supybot Finished writing registry file.
+INFO 2015-08-25T15:21:06 supybot Shutdown complete.
+INFO 2015-08-25T21:28:04 supybot Creating new Irc for slashnet.
+INFO 2015-08-25T21:28:04 supybot slashnet: Queuing PASS command, not logging the password.
+INFO 2015-08-25T21:28:04 supybot Connecting to irc.slashnet.org:6667.
+INFO 2015-08-25T21:28:04 supybot Loading plugins (connecting to slashnet).
+WARNING 2015-08-25T21:28:04 supybot Invalid plugin directory: /home/gargantua/gb3/limconfigs/plugins; removing.
+INFO 2015-08-25T21:28:05 supybot Creating directory /home/gargantua/gb3/limconfigs/data/GPGkeyring
+INFO 2015-08-25T21:28:06 supybot slashnet: Server acknowledged capabilities: account-notify multi-prefix
+INFO 2015-08-25T21:28:06 supybot Server spaniels.slashnet.org has version Unreal3.2.10.2
+INFO 2015-08-25T21:28:06 supybot Got end of MOTD from spaniels.slashnet.org
+INFO 2015-08-25T21:28:06 supybot Exiting due to Ctrl-C.  If the bot doesn't exit within a few seconds, feel free to press Ctrl-C again to make it exit without flushing its message queues.
+INFO 2015-08-25T21:28:06 supybot Flushers flushed and garbage collected.
+INFO 2015-08-25T21:28:06 supybot Driver for Irc object for slashnet dying.
+INFO 2015-08-25T21:28:06 supybot Irc object for slashnet dying.
+INFO 2015-08-25T21:28:06 supybot Driver for Irc object for slashnet dying.
+INFO 2015-08-25T21:28:06 supybot Removing driver SocketDriver(Irc object for slashnet).
+INFO 2015-08-25T21:28:06 supybot Total uptime: 2 seconds.
+INFO 2015-08-25T21:28:06 supybot Total CPU time taken: 0.61 seconds.
+INFO 2015-08-25T21:28:06 supybot No more Irc objects, exiting.
+INFO 2015-08-25T21:28:06 supybot Shutdown initiated.
+INFO 2015-08-25T21:28:06 supybot Killing Driver objects.
+INFO 2015-08-25T21:28:06 supybot Killing Irc objects.
+INFO 2015-08-25T21:28:06 supybot Writing registry file to gb3.conf
+INFO 2015-08-25T21:28:07 supybot Finished writing registry file.
+INFO 2015-08-25T21:28:07 supybot Shutdown complete.
+INFO 2015-08-25T21:28:20 supybot Creating new Irc for slashnet.
+INFO 2015-08-25T21:28:20 supybot slashnet: Queuing PASS command, not logging the password.
+INFO 2015-08-25T21:28:21 supybot Connecting to irc.slashnet.org:6667.
+INFO 2015-08-25T21:28:21 supybot Loading plugins (connecting to slashnet).
+WARNING 2015-08-25T21:28:21 supybot Invalid plugin directory: ; removing.
+INFO 2015-08-25T21:28:21 supybot slashnet: Server acknowledged capabilities: account-notify multi-prefix
+INFO 2015-08-25T21:28:21 supybot Server spaniels.slashnet.org has version Unreal3.2.10.2
+INFO 2015-08-25T21:28:21 supybot Got end of MOTD from spaniels.slashnet.org
+INFO 2015-08-25T21:28:29 supybot Join to #thebar on slashnet synced in 7.31 seconds.
+INFO 2015-08-25T21:28:30 supybot Join to #codelove on slashnet synced in 8.37 seconds.
+INFO 2015-08-25T21:28:31 supybot Join to #gb3 on slashnet synced in 9.37 seconds.
+INFO 2015-08-25T21:29:06 supybot help called in private by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:29:15 supybot help called on #gb3 by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:29:29 supybot list called on #gb3 by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:29:35 supybot help called on #gb3 by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:29:47 supybot list called on #gb3 by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:29:56 supybot help called on #gb3 by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:30:02 supybot help called on #gb3 by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:30:06 supybot list called on #gb3 by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:31:03 supybot admin join called on #gb3 by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:31:03 supybot Preventing gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca from calling admin.admin because of -admin.
+WARNING 2015-08-25T21:31:03 supybot Denying gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca for lacking "admin" capability.
+INFO 2015-08-25T21:31:06 supybot join called on #gb3 by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:31:06 supybot Preventing gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca from calling admin.join because of -admin.
+WARNING 2015-08-25T21:31:06 supybot Denying gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca for lacking "admin" capability.
+INFO 2015-08-25T21:31:18 supybot whoami called on #gb3 by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:31:33 supybot user register called on #gb3 by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:31:55 supybot list called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:32:06 supybot status called on #codelove by "Nomikos!~nemo@cloak-616F87CB.public.cloudvps.com".
+INFO 2015-08-25T21:32:30 supybot list called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:32:39 supybot tiny called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:32:39 supybot tiny called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:32:57 supybot tiny called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:32:57 supybot tiny called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:33:05 supybot list called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:33:19 supybot apropos called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:35:45 supybot help called on #codelove by "shaggyBuffalo_!~IceChat78@cloak-6B1EB9C7.ok.ok.cox.net".
+INFO 2015-08-25T21:36:10 supybot list called on #codelove by "shaggyBuffalo_!~IceChat78@cloak-6B1EB9C7.ok.ok.cox.net".
+INFO 2015-08-25T21:37:27 supybot help called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:37:29 supybot list called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:37:36 supybot help called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:37:43 supybot list called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:38:10 supybot call called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+WARNING 2015-08-25T21:38:10 supybot Denying gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca for lacking "owner" capability.
+INFO 2015-08-25T21:38:28 supybot whoami called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:38:33 supybot call called on #codelove by "Nomikos!~nemo@cloak-616F87CB.public.cloudvps.com".
+WARNING 2015-08-25T21:38:33 supybot Denying Nomikos!~nemo@cloak-616F87CB.public.cloudvps.com for lacking "owner" capability.
+INFO 2015-08-25T21:39:08 supybot identify called in private by "Nomikos!~nemo@cloak-616F87CB.public.cloudvps.com".
+INFO 2015-08-25T21:39:11 supybot identify called in private by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:39:21 supybot register called in private by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:39:28 supybot register called in private by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:39:28 supybot identify called in private by "Nomikos!~nemo@cloak-616F87CB.public.cloudvps.com".
+INFO 2015-08-25T21:39:33 supybot register called in private by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:39:38 supybot whoami called on #gb3 by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:39:43 supybot call called on #gb3 by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+WARNING 2015-08-25T21:39:43 supybot Denying gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca for lacking "owner" capability.
+INFO 2015-08-25T21:39:50 supybot whoami called on #gb3 by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:45:22 supybot call called in private by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+WARNING 2015-08-25T21:45:22 supybot Denying gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca for lacking "owner" capability.
+INFO 2015-08-25T21:45:40 supybot identify called in private by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:45:48 supybot identify called in private by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:45:52 supybot call called in private by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+WARNING 2015-08-25T21:45:52 supybot Denying gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca for lacking "owner" capability.
+INFO 2015-08-25T21:46:16 supybot hostmask called in private by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:46:26 supybot hostmask add called in private by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:47:28 supybot hostmask add called in private by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-25T21:47:33 supybot call called in private by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+WARNING 2015-08-25T21:47:33 supybot Denying gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca for lacking "owner" capability.
+INFO 2015-08-25T21:55:57 supybot Exiting due to Signal #15.
+INFO 2015-08-25T21:55:57 supybot Total uptime: 27 minutes and 36 seconds.
+INFO 2015-08-25T21:55:57 supybot Total CPU time taken: 1.45 seconds.
+INFO 2015-08-25T21:55:57 supybot No more Irc objects, exiting.
+INFO 2015-08-25T21:55:57 supybot Shutdown initiated.
+INFO 2015-08-25T21:55:57 supybot Killing Driver objects.
+INFO 2015-08-25T21:55:57 supybot Driver for Irc object for slashnet dying.
+INFO 2015-08-25T21:55:57 supybot Killing Irc objects.
+INFO 2015-08-25T21:55:57 supybot Writing registry file to gb3.conf
+INFO 2015-08-25T21:55:57 supybot Finished writing registry file.
+INFO 2015-08-25T21:55:57 supybot Shutdown complete.
+INFO 2015-08-25T21:59:29 supybot Creating new Irc for slashnet.
+INFO 2015-08-25T21:59:29 supybot slashnet: Queuing PASS command, not logging the password.
+INFO 2015-08-25T21:59:29 supybot Connecting to irc.slashnet.org:6667.
+INFO 2015-08-25T21:59:29 supybot Loading plugins (connecting to slashnet).
+WARNING 2015-08-25T21:59:29 supybot Invalid plugin directory: ; removing.
+INFO 2015-08-25T21:59:30 supybot slashnet: Server acknowledged capabilities: account-notify multi-prefix
+INFO 2015-08-25T21:59:30 supybot Server spaniels.slashnet.org has version Unreal3.2.10.2
+INFO 2015-08-25T21:59:30 supybot Got end of MOTD from spaniels.slashnet.org
+INFO 2015-08-25T21:59:32 supybot Exiting due to Ctrl-C.  If the bot doesn't exit within a few seconds, feel free to press Ctrl-C again to make it exit without flushing its message queues.
+INFO 2015-08-25T21:59:32 supybot Flushers flushed and garbage collected.
+INFO 2015-08-25T21:59:32 supybot Driver for Irc object for slashnet dying.
+INFO 2015-08-25T21:59:32 supybot Irc object for slashnet dying.
+INFO 2015-08-25T21:59:32 supybot Driver for Irc object for slashnet dying.
+INFO 2015-08-25T21:59:32 supybot Removing driver SocketDriver(Irc object for slashnet).
+INFO 2015-08-25T21:59:32 supybot Total uptime: 3 seconds.
+INFO 2015-08-25T21:59:32 supybot Total CPU time taken: 0.54 seconds.
+INFO 2015-08-25T21:59:32 supybot No more Irc objects, exiting.
+INFO 2015-08-25T21:59:32 supybot Shutdown initiated.
+INFO 2015-08-25T21:59:32 supybot Killing Driver objects.
+INFO 2015-08-25T21:59:32 supybot Killing Irc objects.
+INFO 2015-08-25T21:59:32 supybot Writing registry file to /home/gargantua/gb3/gb3.conf
+INFO 2015-08-25T21:59:33 supybot Finished writing registry file.
+INFO 2015-08-25T21:59:33 supybot Shutdown complete.
+INFO 2015-08-25T22:03:05 supybot Creating new Irc for slashnet.
+INFO 2015-08-25T22:03:05 supybot slashnet: Queuing PASS command, not logging the password.
+INFO 2015-08-25T22:03:05 supybot Connecting to irc.slashnet.org:6667.
+INFO 2015-08-25T22:03:05 supybot Loading plugins (connecting to slashnet).
+WARNING 2015-08-25T22:03:05 supybot Invalid plugin directory: ; removing.
+INFO 2015-08-25T22:03:05 supybot slashnet: Server acknowledged capabilities: account-notify multi-prefix
+INFO 2015-08-25T22:03:05 supybot Server spaniels.slashnet.org has version Unreal3.2.10.2
+INFO 2015-08-25T22:03:05 supybot Got end of MOTD from spaniels.slashnet.org
+INFO 2015-08-25T22:03:12 supybot Join to #thebar on slashnet synced in 7.34 seconds.
+INFO 2015-08-25T22:03:13 supybot Join to #codelove on slashnet synced in 8.36 seconds.
+INFO 2015-08-25T22:03:14 supybot Join to #gb3 on slashnet synced in 9.37 seconds.
+INFO 2015-08-25T23:03:06 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T00:00:01 supybot Exiting due to Signal #15.
+INFO 2015-08-26T00:00:01 supybot Total uptime: 1 hour, 56 minutes, and 56 seconds.
+INFO 2015-08-26T00:00:01 supybot Total CPU time taken: 2.68 seconds.
+INFO 2015-08-26T00:00:01 supybot No more Irc objects, exiting.
+INFO 2015-08-26T00:00:01 supybot Shutdown initiated.
+INFO 2015-08-26T00:00:01 supybot Killing Driver objects.
+INFO 2015-08-26T00:00:01 supybot Driver for Irc object for slashnet dying.
+INFO 2015-08-26T00:00:01 supybot Killing Irc objects.
+INFO 2015-08-26T00:00:01 supybot Writing registry file to /home/gargantua/gb3/gb3.conf
+INFO 2015-08-26T00:00:01 supybot Shutdown complete.
+INFO 2015-08-26T00:00:03 supybot Creating new Irc for slashnet.
+INFO 2015-08-26T00:00:03 supybot slashnet: Queuing PASS command, not logging the password.
+INFO 2015-08-26T00:00:04 supybot Connecting to irc.slashnet.org:6667.
+INFO 2015-08-26T00:00:04 supybot Loading plugins (connecting to slashnet).
+WARNING 2015-08-26T00:00:04 supybot Invalid plugin directory: ; removing.
+INFO 2015-08-26T00:00:04 supybot slashnet: Server acknowledged capabilities: account-notify multi-prefix
+INFO 2015-08-26T00:00:04 supybot Server spaniels.slashnet.org has version Unreal3.2.10.2
+INFO 2015-08-26T00:00:04 supybot Got end of MOTD from spaniels.slashnet.org
+INFO 2015-08-26T00:00:11 supybot Join to #thebar on slashnet synced in 7.19 seconds.
+INFO 2015-08-26T00:00:12 supybot Join to #codelove on slashnet synced in 8.20 seconds.
+INFO 2015-08-26T00:00:13 supybot Join to #gb3 on slashnet synced in 9.21 seconds.
+INFO 2015-08-26T00:03:55 supybot help called on #codelove by "edf!~me@7DF08FD0.22CB09D2.15B9E49B.IP".
+INFO 2015-08-26T00:04:04 supybot list called on #codelove by "edf!~me@7DF08FD0.22CB09D2.15B9E49B.IP".
+INFO 2015-08-26T00:04:57 supybot list called on #codelove by "edf!~me@7DF08FD0.22CB09D2.15B9E49B.IP".
+INFO 2015-08-26T00:05:27 supybot nick called on #codelove by "edf!~me@7DF08FD0.22CB09D2.15B9E49B.IP".
+INFO 2015-08-26T00:05:27 supybot Preventing edf!~me@7DF08FD0.22CB09D2.15B9E49B.IP from calling admin.nick because of -admin.
+WARNING 2015-08-26T00:05:27 supybot Denying edf!~me@7DF08FD0.22CB09D2.15B9E49B.IP for lacking "admin" capability.
+INFO 2015-08-26T01:00:05 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T02:00:06 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T03:00:06 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T04:00:07 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T05:00:08 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T06:00:09 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T07:00:09 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T08:00:10 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T09:00:11 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T10:00:12 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T11:00:13 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T11:16:07 supybot google called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-26T12:00:13 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T13:00:14 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T14:00:15 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T15:00:15 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T16:00:16 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T17:00:16 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T18:00:17 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T19:00:17 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T20:00:18 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T21:00:18 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T22:00:19 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T23:00:19 supybot Flushers flushed and garbage collected.
+INFO 2015-08-26T23:30:13 supybot google called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-27T00:00:01 supybot Exiting due to Signal #15.
+INFO 2015-08-27T00:00:01 supybot Total uptime: 23 hours, 59 minutes, and 58 seconds.
+INFO 2015-08-27T00:00:01 supybot Total CPU time taken: 28.86 seconds.
+INFO 2015-08-27T00:00:01 supybot No more Irc objects, exiting.
+INFO 2015-08-27T00:00:01 supybot Shutdown initiated.
+INFO 2015-08-27T00:00:01 supybot Killing Driver objects.
+INFO 2015-08-27T00:00:01 supybot Driver for Irc object for slashnet dying.
+INFO 2015-08-27T00:00:01 supybot Killing Irc objects.
+INFO 2015-08-27T00:00:01 supybot Shutdown complete.
+INFO 2015-08-27T00:00:04 supybot Creating new Irc for slashnet.
+INFO 2015-08-27T00:00:04 supybot slashnet: Queuing PASS command, not logging the password.
+INFO 2015-08-27T00:00:04 supybot Connecting to irc.slashnet.org:6667.
+INFO 2015-08-27T00:00:04 supybot Loading plugins (connecting to slashnet).
+WARNING 2015-08-27T00:00:04 supybot Invalid plugin directory: ; removing.
+INFO 2015-08-27T00:00:04 supybot slashnet: Server acknowledged capabilities: account-notify multi-prefix
+INFO 2015-08-27T00:00:04 supybot Server spaniels.slashnet.org has version Unreal3.2.10.2
+INFO 2015-08-27T00:00:04 supybot Got end of MOTD from spaniels.slashnet.org
+INFO 2015-08-27T00:00:11 supybot Join to #thebar on slashnet synced in 7.36 seconds.
+INFO 2015-08-27T00:00:12 supybot Join to #codelove on slashnet synced in 8.39 seconds.
+INFO 2015-08-27T00:00:13 supybot Join to #gb3 on slashnet synced in 9.40 seconds.
+INFO 2015-08-27T01:00:04 supybot Flushers flushed and garbage collected.
+INFO 2015-08-27T02:00:05 supybot Flushers flushed and garbage collected.
+INFO 2015-08-27T03:00:06 supybot Flushers flushed and garbage collected.
+INFO 2015-08-27T04:00:06 supybot Flushers flushed and garbage collected.
+INFO 2015-08-27T05:00:07 supybot Flushers flushed and garbage collected.
+INFO 2015-08-27T06:00:08 supybot Flushers flushed and garbage collected.
+INFO 2015-08-27T07:00:08 supybot Flushers flushed and garbage collected.
+INFO 2015-08-27T08:00:09 supybot Flushers flushed and garbage collected.
+INFO 2015-08-27T09:00:10 supybot Flushers flushed and garbage collected.
+INFO 2015-08-27T10:00:10 supybot Flushers flushed and garbage collected.
+INFO 2015-08-27T11:00:11 supybot Flushers flushed and garbage collected.
+INFO 2015-08-27T12:00:12 supybot Flushers flushed and garbage collected.
+INFO 2015-08-27T13:00:12 supybot Flushers flushed and garbage collected.
+INFO 2015-08-27T14:00:13 supybot Flushers flushed and garbage collected.
+INFO 2015-08-27T15:00:13 supybot Flushers flushed and garbage collected.
+INFO 2015-08-27T16:00:14 supybot Flushers flushed and garbage collected.
+INFO 2015-08-27T17:00:15 supybot Flushers flushed and garbage collected.
+INFO 2015-08-27T18:00:15 supybot Flushers flushed and garbage collected.
+INFO 2015-08-27T19:00:16 supybot Flushers flushed and garbage collected.
+INFO 2015-08-27T20:00:17 supybot Flushers flushed and garbage collected.
+INFO 2015-08-27T21:00:17 supybot Flushers flushed and garbage collected.
+INFO 2015-08-27T21:08:51 supybot help called on #codelove by "SpecLad!~DPB@4F1FBA3A.C3FB189B.465F49A5.IP".
+INFO 2015-08-27T21:09:07 supybot list called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-27T21:09:20 supybot help called on #codelove by "SpecLad!~DPB@4F1FBA3A.C3FB189B.465F49A5.IP".
+INFO 2015-08-27T21:09:21 supybot google called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-27T21:09:38 supybot help called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-27T21:09:51 supybot list called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-27T21:10:43 supybot google called on #codelove by "gargantua!~gargantua@cloak-1EE766BE.dsl.ncf.ca".
+INFO 2015-08-27T21:10:54 supybot help called on #codelove by "SpecLad!~DPB@4F1FBA3A.C3FB189B.465F49A5.IP".
+INFO 2015-08-27T21:11:06 supybot countargs called on #codelove by "SpecLad!~DPB@4F1FBA3A.C3FB189B.465F49A5.IP".
